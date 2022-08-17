@@ -1,0 +1,1 @@
+print(f'[20:240], n % 20 or 21 == 0: {[count for count in range(20, 241) if count % 20 == 0 or count % 21 == 0]}')
